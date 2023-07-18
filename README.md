@@ -1,3 +1,3 @@
 ## Anemone - Flower Studio
 
-https://sylwiabruszewska.github.io/project-anemone/
+https://lukaszz2003.github.io/Anemone/
