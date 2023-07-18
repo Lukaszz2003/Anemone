@@ -2,14 +2,14 @@
   "name": "project-anemone",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://sylwiabruszewska.github.io/project-anemone/",
+  "homepage": "https://github.com/Lukaszz2003/Anemone",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-anemone/"
+    "build": "parcel build src/*.html --public-url /Anemone/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sylwiabruszewska/project-anemone"
+    "url": "git+https://github.com/Lukaszz2003/Anemone"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
